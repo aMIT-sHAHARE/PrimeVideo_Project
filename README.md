@@ -50,13 +50,118 @@ The dashboard highlights content distribution, genre trends, ratings classificat
 
 ---
 
-## 💡 Key Insights
+# 📊 Prime Video Dashboard Insights
 
-* Majority of content consists of Movies compared to TV Shows
-* Rapid growth in content observed after 2015
-* Drama and Comedy are the most dominant genres
-* Most content falls under mature audience ratings
-* Content production is concentrated in limited regions
+## 📌 Project Summary
+This project analyzes Prime Video's content library using an interactive Power BI dashboard.  
+The dashboard provides insights into total titles, ratings, genres, directors, country distribution, and release year trends.
+
+---
+
+# 🔢 Key Statistics
+
+- **Total Titles:** 9,655  
+- **Total Rating Categories:** 25  
+- **Total Genres:** 519  
+- **Total Directors:** 5,771  
+- **Content Period Covered:** 1920 to 2021  
+
+---
+
+# 🎬 Content Type Analysis
+
+| Content Type | Total Titles | Percentage |
+|-------------|-------------|------------|
+| Movies      | 7,810       | 80.82%     |
+| TV Shows    | 1,850       | 19.18%     |
+
+### Insight:
+Prime Video's library is highly dominated by movies, while TV shows form a smaller portion.  
+This suggests strong movie-focused content strategy.
+
+---
+
+# 👥 Audience Rating Analysis
+
+Top ratings by number of titles:
+
+- **13+** → 2,117  
+- **16+** → 1,547  
+- **ALL** → 1,268  
+- **18+** → 1,243  
+- **R** → 1,010  
+
+### Insight:
+Most content targets teenagers and adults, showing focus on broad entertainment audience.
+
+---
+
+# 🎭 Top Genres Analysis
+
+| Genre | Total Titles |
+|------|-------------|
+| Drama | 986 |
+| Comedy | 536 |
+| Drama, Suspense | 399 |
+| Comedy, Drama | 377 |
+| Animation, Kids | 356 |
+| Documentary | 350 |
+
+### Insight:
+Drama is the leading genre with nearly double the number of Comedy titles.
+
+---
+
+# 🌍 Country Distribution
+
+Prime Video has strong title presence across multiple countries, especially:
+
+- United States  
+- India  
+- United Kingdom  
+- Japan  
+
+### Insight:
+The platform has a strong global footprint with focus on major markets.
+
+---
+
+# 📈 Release Year Trend
+
+- Content additions remained limited before 2000.  
+- Rapid growth started after 2010.  
+- Major expansion occurred between 2018–2021.
+
+### Insight:
+Prime Video significantly expanded its content library in recent years.
+
+---
+
+# 💡 Business Recommendations
+
+- Increase TV Shows portfolio for better user retention.  
+- Expand high-performing genres like Drama and Comedy.  
+- Invest more in regional content.  
+- Increase family-friendly content.  
+- Continue producing original series.
+
+---
+
+# 🛠 Tools Used
+
+- Power BI  
+- Power Query  
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Design  
+- Business Intelligence  
+
+---
+
+# 🎯 Conclusion
+
+This dashboard converts raw streaming platform data into actionable insights.  
+It demonstrates data cleaning, visualization, KPI reporting, and storytelling skills using Power BI.
 
 ---
 
